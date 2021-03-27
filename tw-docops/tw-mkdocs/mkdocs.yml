@@ -1,11 +1,20 @@
-site_name: Wizeline MkDocs Template
+site_name: Edgar Ramírez DocOps Exercise
+site_description: This is an exercise of a static website using the DocOps resources.
+site_author: Edgar Ramírez
+
 nav:
-  - Home: index.md
-  - About: about.md
+  - My Profile: index.md
+  - Education: education.md
+  - Experience: experience.md
+  - Skills: skills.md
+  - Selected Past Work: selected-past-work.md
 
 theme:
   name: material
-  palette:
-    primary: black
-    accent: indigo
+    palette:
+      primary: black
+      accent: indigo
   logo: images/wizeline_isotype.png
+
+extra_css:
+    - css/extra.css
