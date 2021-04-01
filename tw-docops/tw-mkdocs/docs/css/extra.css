@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Montserrat";
+    src: "https://fonts.googleapis.com/css?family=Montserrat";
+  }
+
+body {
+    background-color: black;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: "Montserrat";
+    color: rgb(14, 39, 77);
+    size: "22";
+}
+
+h2 {
+    font-family: "Montserrat";
+    color: rgb(30, 62, 109);
+    size: "18";
+}
