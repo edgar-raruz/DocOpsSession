@@ -5,16 +5,21 @@ site_author: Edgar Ramírez
 nav:
   - My Profile: index.md
   - Education: education.md
-  - Experience: work-experience.md
+  - Work Experience: work-experience.md
   - Skills: skills.md
   - Selected Past Work: selected-past-work.md
 
+markdown_extensions:
+  - attr_list
+
 theme:
   name: material
-    palette:
-      primary: black
-      accent: indigo
   logo: images/wizeline_isotype.png
+  features:
+    - toc.integrate
+
+plugins:
+  - search
 
 extra_css:
     - css/extra.css

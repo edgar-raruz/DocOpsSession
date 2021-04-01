@@ -1,21 +1,11 @@
-@font-face {
-    font-family: "Montserrat";
-    src: "https://fonts.googleapis.com/css?family=Montserrat";
-  }
+:root {
+    --md-primary-fg-color:        #234b70;
+    --md-primary-fg-color--light: #a6c1da;
+    --md-primary-fg-color--dark:  #092850;
+    --md-accent-fg-color: rgb(20, 52, 233);
+}
 
 body {
-    background-color: black;
+    background-color: rgb(226, 221, 221);
     font-family: sans-serif;
-}
-
-h1 {
-    font-family: "Montserrat";
-    color: rgb(14, 39, 77);
-    size: "22";
-}
-
-h2 {
-    font-family: "Montserrat";
-    color: rgb(30, 62, 109);
-    size: "18";
 }
