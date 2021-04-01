@@ -5,7 +5,7 @@ site_author: Edgar Ramírez
 nav:
   - My Profile: index.md
   - Education: education.md
-  - Experience: experience.md
+  - Experience: work-experience.md
   - Skills: skills.md
   - Selected Past Work: selected-past-work.md
 
