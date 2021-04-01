@@ -1,5 +1,5 @@
 # Work Experience
-Edgar Ramirez has the following work experience:
+Edgar has the following work experience:
 
 - **Technical Writer** - Wizeline 
 - **Press and Content Manager** - Pacific Workers' Compensation Law Center

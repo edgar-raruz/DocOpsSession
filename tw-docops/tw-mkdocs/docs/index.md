@@ -1,4 +1,5 @@
 # My Profile
+
 > *"Attention to detail cannot be (and never is) added later. It is an entire development philosophy, methodology, and culture."*
 > **Marco Arment**
 
