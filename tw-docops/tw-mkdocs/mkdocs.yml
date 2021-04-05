@@ -1,12 +1,12 @@
-site_name: Edgar Ramírez DocOps Exercise
+site_name: Edgar Ramírez Profile
 site_description: This is an exercise of a static website using the DocOps resources.
 site_author: Edgar Ramírez
 
 nav:
   - My Profile: index.md
   - Education: education.md
-  - Work Experience: work-experience.md
   - Skills: skills.md
+  - Work Experience: work-experience.md
   - Selected Past Work: selected-past-work.md
 
 markdown_extensions:
